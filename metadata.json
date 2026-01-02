@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Spatial Live",
+  "description": "Real-time spatial understanding app using Gemini Live 2.5. Detects and tracks objects with bounding boxes through live video and audio streams.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
